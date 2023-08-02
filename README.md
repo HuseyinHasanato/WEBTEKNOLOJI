@@ -10,6 +10,6 @@ Bu projede
 
 5_İlgi alanlarım ( spor , şarkı dinlemek ve film izlemek gibi alanlar )
 
-6_sosyalmidya sayfasında (e-mail adresi,telefon numarası,insagram,facebook)bilgileri içermektedir
+6_sosyalmidya sayfasında (e-mail adresi,insagram,facebook)bilgileri içermektedir
 
 dinamik siteyi görüntülemek için bağlantı budur => ------===== huseyin.infinityfreeapp.com =====------
